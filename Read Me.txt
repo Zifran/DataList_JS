@@ -1,0 +1,9 @@
+Javascript Simple project.
+
+* uploading data and showing on list 
+
+* remove data on clicking in cross mark
+
+* Remove full data in one click by clicking on clear task button.
+
+* data store in local storage 
